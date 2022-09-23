@@ -1,0 +1,6 @@
+path: /content/datasets/dogs
+train: images/train
+val: images/val
+
+nc: 3
+names: ['head','nose','ear']
